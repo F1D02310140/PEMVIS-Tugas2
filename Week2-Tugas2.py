@@ -3,7 +3,7 @@ Nama    : Syazwani
 NIM     : F1D02310140
 Kelas   : D
 
-TUGAS 2 - Konversi Suhu
+TUGAS WEEK 2 - Konversi Suhu
 """
 
 import sys
